@@ -1,16 +1,20 @@
 <p align="center">
 
   ![Wallpaper](https://user-images.githubusercontent.com/47696178/146576421-708b4b17-17ec-48b0-9eb5-8eca19d374f6.jpg)
-  
+ 
 </p>
 
   # Hello everyone, welcome to Zombie Acadalypse!!
   A Zombie invasion has occurred at the Code Academy Campus and now Alcatrinha has to fight the zombies to death! (2D TopView Shooter)
 
   ## How to play?
+ <p align="center">
   
+ ![instructions](https://user-images.githubusercontent.com/47696178/146577204-32506f85-41d2-4422-a643-8dd9ef00c0fa.jpg)
+
+</p>
   
-  ## Objectives of the game
+  ## Objectives of the game?
  
  
   ## Setup
