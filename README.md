@@ -4,7 +4,7 @@
  
 </p>
 
-  # Hello everyone, welcome to Zombie Acadalypse!!
+  # Hello everyone, welcome to Zombie ACADalypse!!
   A Zombie invasion has occurred at the Code Academy Campus and now Alcatrinha has to fight the zombies to death! (2D TopView Shooter)
 
   ## How to play?
@@ -15,7 +15,8 @@
 </p>
   
   ## Objectives of the game?
- 
+  The goal of Zombie ACADalypse is to survive the most rounds you can.
+  While you're at it, gather good score by killing those zombies (go check the fridge, to aid you in this arduous mission)
  
   ## Setup
   To build this project using ANT go to the project folder and use the command ant
